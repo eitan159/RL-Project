@@ -12,6 +12,8 @@ model_name can be: DQN, DDQN, Dueling_DQN, Rainbow_DQN
 
 python PATH/train_DQN_models.py model_name gpu_number
 
+python PATH/train_TD3_FORK.py gpu_number
+
 test:
 
 model_name can be: DQN, DDQN, Dueling_DQN, Rainbow_DQN, TD3_FORK
