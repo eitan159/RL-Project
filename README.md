@@ -19,3 +19,6 @@ test:
 model_name can be: DQN, DDQN, Dueling_DQN, Rainbow_DQN, TD3_FORK
 
 python PATH/test.py model_name gpu_number
+
+
+all the models was trained and tested with 2080ti gpu.
